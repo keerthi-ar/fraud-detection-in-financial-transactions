@@ -77,5 +77,5 @@ pip install -r requirements.txt
 
 ### Run the code:
 ```bash
-python fraud-detection-in-financial-transactions.ipynb
+jupyter notebook fraud-detection-in-financial-transactions.ipynb
 ```
