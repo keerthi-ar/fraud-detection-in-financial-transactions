@@ -75,7 +75,7 @@ cd fraud-detection-in-financial-transactions
 pip install -r requirements.txt
 ```
 
-### Run the analysis:
+### Run the code:
 ```bash
 python fraud-detection-in-financial-transactions.ipynb
 ```
