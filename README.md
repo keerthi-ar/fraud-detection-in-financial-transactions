@@ -34,6 +34,10 @@ In this project, we build and evaluate machine learning models for detecting fra
 5. **Feedback Loop**:
    - Designed a feedback loop to retrain the models on new fraud patterns and improve performance over time.
 
+## Citation:
+MLG-ULB. (2018). Credit Card Fraud Detection. Retrieved from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
 ## Installation:
 
 To run this project on your local machine, you'll need to install the following libraries:
@@ -65,10 +69,13 @@ git clone https://github.com/your-username/fraud-detection-in-financial-transact
 cd fraud-detection-in-financial-transactions
 ```
 
-### Run the Jupyter Notebook:
-
-Open the Jupyter notebook to start running the project:
+### Install the required libraries:
 
 ```bash
-jupyter notebook
+pip install -r requirements.txt
+```
+
+### Run the analysis:
+```bash
+python fraud-detection-in-financial-transactions.ipynb
 ```
